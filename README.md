@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%2C%20I'm%20Wenura%20Magnus&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20Undergraduate&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%2C%20I'm%20Wenura%20Magnus&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:0F172A,50:1E3A8A,100:1D4ED8&desc=Computer%20Science%20Undergraduate&descColor=93C5FD&descAlignY=60&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;Learning+%26+Building+with+Code;Exploring+Web+Development;Exploring+Backend+Development;Working+with+APIs+%26+Databases;Learning+Machine+Learning;Exploring+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;Learning+%26+Building+with+Code;Exploring+Web+Development;Exploring+Backend+Development;Working+with+APIs+%26+Databases;Learning+Machine+Learning;Exploring+Cybersecurity" alt="Typing SVG" />
 
 <br><br>
 
@@ -33,7 +33,7 @@ I'm continuously learning and improving my understanding of programming, softwar
 |  🌐 Web Development  |        ⚙️ Backend       |     🔗 APIs     |     🗄️ Databases    |
 | :------------------: | :---------------------: | :-------------: | :------------------: |
 |   Web Applications   |   Backend Development   |    REST APIs    | Database Integration |
-| Frontend Development | Server-side Development | CRUD Operations |    Data Management   |
+| Frontend Development | Server-side Development | CRUD Operations |   Data Management   |
 
 </div>
 
@@ -44,37 +44,37 @@ I'm continuously learning and improving my understanding of programming, softwar
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,php" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,php&theme=dark" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nextjs&theme=dark" />
 </p>
 
 ### 🎨 Styling
 
 <p>
-<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
 </p>
 
 ### 🔧 Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,netbeans,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,netbeans,postman&theme=dark" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ A full-stack Todo application developed to practice application functionality, C
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=650&lines=Advanced+Programming;Full-Stack+Web+Development;Backend+Development;Machine+Learning;Cybersecurity;Modern+Software+Development+Practices" alt="Currently Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=650&lines=Advanced+Programming;Full-Stack+Web+Development;Backend+Development;Machine+Learning;Cybersecurity;Modern+Software+Development+Practices" alt="Currently Learning" />
 
 </div>
 
@@ -168,7 +168,7 @@ I learn best by applying what I study to practical projects and gradually improv
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Wenura1&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Wenura1&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -176,6 +176,6 @@ I learn best by applying what I study to practical projects and gradually improv
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:0F172A,50:1E3A8A,100:1D4ED8" width="100%"/>
 
 </div>
