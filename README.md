@@ -8,8 +8,9 @@
 
 <br><br>
 
+<!-- Enhanced 2D LinkedIn Button -->
 <a href="https://www.linkedin.com/in/wenura-magnus-62b100334">
-<img src="https://img.shields.io/badge/LinkedIn-Wenura%20Magnus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-WENURA%20MAGNUS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D3748" height="45" alt="LinkedIn Button" />
 </a>
 
 </div>
@@ -158,8 +159,9 @@ I learn best by applying what I study to practical projects and gradually improv
 
 <div align="center">
 
+<!-- Enhanced 2D LinkedIn Button -->
 <a href="https://www.linkedin.com/in/wenura-magnus-62b100334">
-<img src="https://img.shields.io/badge/LinkedIn-Wenura%20Magnus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-WENURA%20MAGNUS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D3748" height="45" alt="LinkedIn Button" />
 </a>
 
 </div>
