@@ -75,7 +75,7 @@ I'm continuously learning and improving my understanding of programming, softwar
 ### 🔧 Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,netbeans,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,postman&theme=dark" />
 </p>
 
 ---
