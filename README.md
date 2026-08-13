@@ -1,101 +1,181 @@
-# 👋 Hi, I'm Wenura Magnus
+<div align="center">
 
-### Computer Science Undergraduate | Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%2C%20I'm%20Wenura%20Magnus&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20Undergraduate&descAlignY=60&descSize=20" width="100%"/>
 
-I’m a Computer Science undergraduate focused on building practical software solutions, learning modern technologies, and turning ideas into real-world products.
+<br>
 
-I enjoy working across software development, backend systems, web applications, and emerging areas of technology.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;Learning+%26+Building+with+Code;Exploring+Web+Development;Exploring+Backend+Development;Working+with+APIs+%26+Databases;Learning+Machine+Learning;Exploring+Cybersecurity" alt="Typing SVG" />
 
----
+<br><br>
 
-## 🚀 What I'm Working On
+<a href="https://www.linkedin.com/in/wenura-magnus-62b100334">
+<img src="https://img.shields.io/badge/LinkedIn-Wenura%20Magnus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-* 💻 Building full-stack web applications
-* 🧩 Developing backend systems and APIs
-* 📚 Strengthening my software engineering fundamentals
-* 🤖 Exploring Machine Learning and intelligent applications
-* 🔐 Developing my understanding of Cybersecurity
-* 🚀 Turning ideas into practical software products
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-### 💻 Languages
+I'm **Wenura Magnus**, a **Computer Science undergraduate** interested in software development and learning how different technologies are used to build applications.
+
+Through my academic and personal projects, I have worked with **web development, backend development, REST APIs, databases, and full-stack applications**.
+
+I'm continuously learning and improving my understanding of programming, software development, and computer science through practical projects.
+
+---
+
+## 💻 What I've Worked With
+
+<div align="center">
+
+|  🌐 Web Development  |        ⚙️ Backend       |     🔗 APIs     |     🗄️ Databases    |
+| :------------------: | :---------------------: | :-------------: | :------------------: |
+|   Web Applications   |   Backend Development   |    REST APIs    | Database Integration |
+| Frontend Development | Server-side Development | CRUD Operations |    Data Management   |
+
+</div>
+
+---
+
+## 🛠️ Technologies I've Learned & Used
+
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,php" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nextjs" />
+</p>
+
+### 🎨 Styling
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🔧 Tools & Development
+### 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,netbeans,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,netbeans,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Worked On
 
-### 📝 Todo Application
+### 📈 Invezt Application
 
-A full-stack task management application developed to practice modern application development, backend architecture, database integration, and CRUD functionality.
+A full-stack stock analysis and portfolio management application.
 
-**Technologies:** Laravel • PHP • Database • HTML • CSS • JavaScript
+**Technologies used**
 
----
-
-### 🌐 Web Development Projects
-
-A collection of academic and personal projects covering frontend development, backend development, databases, APIs, and application architecture.
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `React` · `Vite` · `Tailwind CSS`
 
 ---
 
-### 🤖 Machine Learning Projects
+### 🏫 Smart Campus REST API
 
-Projects exploring data preprocessing, classification algorithms, model evaluation, and machine learning workflows using Python.
+A RESTful API developed for a Smart Campus application to manage **rooms, sensors, and sensor readings** using in-memory data storage.
 
----
+**Technologies used**
 
-## 🎯 Currently Learning
-
-* Advanced Software Engineering
-* Full-Stack Development
-* Backend Architecture
-* Machine Learning
-* Cybersecurity
-* Modern Development Practices
+`Java` · `JAX-RS` · `REST API`
 
 ---
 
-## 📈 My Development Philosophy
+### ✅ Todo Application
 
-> **Build. Learn. Improve. Repeat.**
+A full-stack Todo application developed to practice application functionality, CRUD operations, backend development, and database integration.
 
-I believe the best way to learn technology is by building real things, understanding how they work, and continuously improving them.
+**Technologies used**
+
+`Laravel` · `PHP` · `Next.js` · `HTML` · `CSS` · `JavaScript`
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=650&lines=Advanced+Programming;Full-Stack+Web+Development;Backend+Development;Machine+Learning;Cybersecurity;Modern+Software+Development+Practices" alt="Currently Learning" />
+
+</div>
+
+<br>
+
+* 🔹 Advanced programming and software development
+* 🔹 Full-stack web development
+* 🔹 Backend development
+* 🔹 Machine Learning
+* 🔹 Cybersecurity
+* 🔹 Modern software development practices
+
+---
+
+## 🌱 My Learning Approach
+
+<div align="center">
+
+### **Learn → Build → Practice → Improve**
+
+</div>
+
+I learn best by applying what I study to practical projects and gradually improving my understanding through implementation.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Wenura1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wenura1&layout=compact&hide_border=true&langs_count=8" height="170" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/wenura-magnus-62b100334">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/wenura-magnus-62b100334">
+<img src="https://img.shields.io/badge/LinkedIn-Wenura%20Magnus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-⭐ Feel free to explore my repositories and follow my journey as I build, learn, and grow as a software engineer.
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Wenura1&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
