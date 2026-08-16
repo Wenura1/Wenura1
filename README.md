@@ -155,7 +155,7 @@ I learn best by applying what I study to practical projects and gradually improv
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
